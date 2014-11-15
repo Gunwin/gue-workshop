@@ -1,0 +1,69 @@
+    1  history
+    2  history less
+    3  history | less
+    4  git help less
+    5  git help status
+    6  cd
+    7  ls
+    8  cd Documents/
+    9  history > historyofgitbash.txt
+   10  less historyofgitbash.txt 
+   11  subl historyofgitbash.txt 
+   12  ls
+   13  ls >> historyofgitbash.txt 
+   14  subl historyofgitbash.txt 
+   15  ls -lt > historyofgitbash.txt 
+   16  subl historyofgitbash.txt 
+   17  subl historyofgitbash.txt 
+   18  ls > francaisletter.doc 
+   19  subl historyofgitbash.txt 
+   20  cd
+   21  mk dir gue_workshop
+   22  mkdir gue_workshop
+   23  cd gue_workshop/
+   24  echo 'this is a file' > moose.txt
+   25  mv ./moose.txt ./squid.txt
+   26  q
+   27  asdf asdfa;lkewaoij;lcv;aslkdjfaopweiruqpwoirua;lsdkfjz.,mnv
+   28  subl squid.txt
+   29  git
+   30  git config user
+   31  cd
+   32  git -l
+   33  git config --global user.name "Gareth Unwin"
+   34  git config --user.email "gareth.unwin@gmail.com"
+   35  git config --global user.email "gareth.unwin@gmail.com"
+   36  git -l
+   37  git user
+   38  git user -l
+   39  git config -l
+   40  cd
+   41  mkdir gue_workshop
+   42  cd gue_workshop
+   43  echo > .git
+   44  subl .git
+   45  git innit
+   46  git init
+   47  git init
+   48  ls -al
+   49  git st
+   50  git status
+   51  rm -rf .git 
+   52  git init
+   53  git status
+   54  git status
+   55  git add squid.txt
+   56  git status
+   57  git status
+   58  git commit -m "adding unix notes, first draft"
+   59  git status
+   60  git log
+   61  ls
+   62  ls -la
+   63  ls -l
+   64  ls -la
+   65  git commit -m "-m = message"
+   66  git status
+   67  git log
+   68  history
+   69  history > ./history.txt
